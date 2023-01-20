@@ -1,1 +1,1 @@
-const url = "https://www.scheduler.store/";
+const url = "https://www.scheduler.store";
